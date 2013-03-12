@@ -17,7 +17,8 @@ public class Pl5 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //System.out.println("Ola");
+        System.out.println("Ola");
+        
         Scanner ler = new Scanner(System.in);
         //ler.next();
        
