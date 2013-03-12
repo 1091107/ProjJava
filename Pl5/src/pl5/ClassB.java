@@ -11,4 +11,7 @@ package pl5;
 public class ClassB {
     
     private int a;
+    
+    public ClassB()
+    {}
 }
