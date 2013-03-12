@@ -19,7 +19,7 @@ public class Pl5 {
         // TODO code application logic here
         //System.out.println("Ola");
         Scanner ler = new Scanner(System.in);
-        ler.next();
+        //ler.next();
        
     }
 }
